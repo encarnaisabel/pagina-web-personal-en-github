@@ -1,22 +1,22 @@
 ---
-title: Título de la práctica
-description: Descripción de máximo 140 caracteres
-tags: etiquetas
-level: Facil, Medio, Avanzado
+title: Página web pesonal en github
+description: Creación de una página web personal a partir de otra existente en github
+tags: página web, github, html
+level: Medio
 authors:
-  - { name: Nombre del autor, github: username }
+  - { name: Encarna Isabel Gómez Campoy, github: 
+  encarnaisabel}
 ---
 
 # Título de la práctica
 
-Descripción de la práctica
+Creación de una página web personal en github, clonando y modificando una existente. 
 
-![](practica.gif)
+![](paginawebpersonal.png)
 
 ## Materiales
 
-- 1 Raspberry Pi
-- 1 Cable
+Ordenador y conexión a internet.
 
 ## Esquema eléctrico
 
