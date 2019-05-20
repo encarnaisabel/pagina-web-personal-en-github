@@ -12,7 +12,7 @@ authors:
 
 Creación de una página web personal en github, clonando y modificando una existente. 
 
-![](paginawebpersonal.png)
+![](paginawebpersonal.PNG)
 
 ## Materiales
 
